@@ -19,3 +19,33 @@ Create a Global Superstore Sales Dashboard
 6)Analyze market trends, competitor performance, and economic indicators to contextualize the sales data.
 
 7)Identify variances and trends to understand deviations from targets and inform strategic decisions.
+
+
+Technical & Soft Skills:-
+
+1)Extract: Retrieve data from various sources such as databases, spreadsheets, APIs, etc., into Power BI using Power Query.
+
+2)Transform: Clean, reshape, and prepare data within Power Query Editor to make it suitable for analysis.
+
+3)Load: Load processed data into Power BI for further analysis and visualization
+
+4)Data Integration: Combine additional datasets with existing data model in Power BI using relationships or merging queries in Power Query.
+
+5)Data Enrichment: Enhance analysis capabilities by integrating supplementary data (e.g., demographic data, external market data) into the existing model.
+
+6)DAX (Data Analysis Expressions): Write formulas in DAX to create calculated columns that perform calculations based on data fields in Power BI.
+
+7)Calculated Columns: Enhance data analysis by adding new calculated columns that derive insights not available directly from the source data.
+
+8)DAX Calculated Columns provide flexibility in performing complex calculations.
+
+
+
+
+
+
+
+
+
+
+
